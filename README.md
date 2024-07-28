@@ -1,9 +1,9 @@
 # FIFA-World-Cup-Analytics
 
-1. Created a Power BI Dashboard that highlights the statistics of the FIFA World Cup held between 1930-2014. The statistics indluded Winners, Attendance, Referres, Goals Scored, etc.
+• Compiled and integrated data from historical FIFA World Cup records, spanning tournaments from 1930 to 2014.
 
-2. Started by cleaning and filtering the data using ETL(Extract, Transform, Load).
+• Designed to visualize key statistics such as Winners, Attendance, Referees, Goals Scored, and more.
 
-3. Used Power Query Editor to first create a new table called Participants. The next step was to append the initial table columns in the new table. Finally, removed the unnecessary columns and unpivoted the remaining columns.
+• Implemented interactive filters and slicers to analyze data by tournament year, team, player, and match location.
 
-4. Used DAX functions such as SUM() while creating measures to achieve the desired result.
+• Ensured dashboard responsiveness and usability for diverse devices and screen sizes.
